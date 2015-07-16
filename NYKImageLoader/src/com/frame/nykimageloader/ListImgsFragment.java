@@ -12,11 +12,7 @@ import android.widget.GridView;
 import android.widget.ImageView;
 
 import com.frame.nykimageloader.NYKImageLoader.Type;
-/**
- * http://blog.csdn.net/lmj623565791/article/details/41874561
- * @author zhy
- *
- */
+
 public class ListImgsFragment extends Fragment
 {
 	private GridView mGridView;
